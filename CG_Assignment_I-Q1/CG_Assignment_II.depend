@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\acer\desktop\cg_assignment_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663896840 source:c:\users\acer\desktop\cg assignments\cg_assignment_i\main.c
+	<gl/glut.h>
+	<stdlib.h>
+	"Q1.c"
+
+1663896899 c:\users\acer\desktop\cg assignments\cg_assignment_i\q1.c
+
+1663899579 source:c:\users\acer\desktop\cg assignments\cg_assignment_i-q1\main.c
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+
